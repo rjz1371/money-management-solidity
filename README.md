@@ -14,3 +14,7 @@ Traders must pay a fee to join.
 Every investor can create a request to transfer part of investing money to a special trader, if more than 60% of investor vote for the request a part of the money will transfer to the trader.
 
 Investors can vote for any request.
+
+# Todo
+1. add "receive" function to get direct money for investing.
+2. check trader address exists before creating a request.
