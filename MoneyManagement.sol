@@ -2,9 +2,6 @@
 
 pragma solidity ^0.8.5;
 
-// todo: add "receive" function to get direct money.
-// todo: check trader address exists before create request.
-
 /// @author https://www.linkedin.com/in/reza-jabbari-47a10677
 /// @notice A simple money management contract based on investors contributing.
 contract MoneyManagement {
