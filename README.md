@@ -2,6 +2,7 @@
 A simple money management contract based on investors contributing.
 
 This project has an educational aspect.
+
 Do not use codes without testing and debugging.
 
 This project contains investors and traders.
